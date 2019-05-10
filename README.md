@@ -15,5 +15,9 @@ $ pip install matplotlib
 $ pip install pandas
 ```
 #### Run the tweepy_streamer.py
-##### output sample
+#### output sample
 ![alt text](https://raw.githubusercontent.com/sksoumik/opinion-mining-twitter-tweets/master/output_sample.JPG)
+
+---
+#### Acknowledgment 
+freeCodeCamp.org
