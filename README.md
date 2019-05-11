@@ -1,4 +1,9 @@
-### Real time sentiment analysis using Twitter API
+### Real time sentiment analysis using Twitter API & TextBlob
+----
+
+TextBlob is a Python library for processing textual data. It provides a simple API for diving into common natural language processing (NLP) tasks such as part-of-speech tagging, noun phrase extraction, sentiment analysis, classification, translation, and more. 
+[Reference](https://textblob.readthedocs.io/en/dev/)
+
 ----
 #### Steps: 
 - Apply for the access of twitter api
